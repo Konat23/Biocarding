@@ -3,7 +3,7 @@
 - Rafael Santiago Suarez Gil
 - Daniel Augusto García Gomez
 ## Parte 1: ELECTROCARDIOGRAFO ANALÓGICO DE UNA DERIVACION.
-Este trabajo, se  desarrollo un electrócardiografo de bajo costo y fáacil uso capaz de adquirir, amplificar y procesar senales ECG. El sistema incorpora diversos componentes, incluyendo un amplificador de instrumentacion, filtros pasa bajos y pasa altos, un amplificador de ganancia y un circuito de desplazamiento de voltaje. Estos componentes se integran para garantizar una adquisicion precisa de se ´ nales y reducir la interferencia de ruido durante el proceso de medicion.
+Este trabajo desarrollo un electrócardiografo de bajo costo y fácil uso capaz de adquirir, amplificar y procesar senales ECG. El sistema incorpora diversos componentes, incluyendo un amplificador de instrumentacion, filtros pasa bajos y pasa altos, un amplificador de ganancia y un circuito de desplazamiento de voltaje. Estos componentes se integran para garantizar una adquisicion precisa de señales y reducir la interferencia de ruido durante el proceso de medicion.
 ### Esquematico general del circuito
 ![image](https://github.com/Konat23/Biocarding/assets/68023761/5b3d5071-8c15-45d4-abb5-ea6bbb07c67d)
 
